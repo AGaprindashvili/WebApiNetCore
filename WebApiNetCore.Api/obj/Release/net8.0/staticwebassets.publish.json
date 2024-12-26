@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "YLoz2pPoYVcK/7TNvcGIvz1Ku6e9eIQVFv3Q0O3ntIQ=",
+  "Source": "WebApiNetCore.Api",
+  "BasePath": "_content/WebApiNetCore.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiNetCore.Api\\wwwroot",
+      "Source": "WebApiNetCore.Api",
+      "ContentRoot": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\",
+      "BasePath": "_content/WebApiNetCore.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\favicon.ico",
+      "SourceId": "WebApiNetCore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\",
+      "BasePath": "_content/WebApiNetCore.Api",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\index.html",
+      "SourceId": "WebApiNetCore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\",
+      "BasePath": "_content/WebApiNetCore.Api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

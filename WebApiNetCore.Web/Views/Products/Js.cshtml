@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Products Js";
+}
+
+<div class="text-center">
+    <h2>Products JavaScript (jQuery/Ajax) request</h2>
+</div>
+
+<form id="jsform" class="mt-4">
+    <p>
+        Token
+        <br />
+        <input type="text" id="token" name="token" required class="form-control" placeholder="Enter token" value="@ViewData["Token"]">
+    </p>
+    <p>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </p>
+</form>
+
+<div id="response"></div>

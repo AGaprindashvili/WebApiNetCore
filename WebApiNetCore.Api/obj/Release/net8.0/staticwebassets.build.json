@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "XzZSi+qL/MzVCaROp/2FAlDA94p3y2XjNN0D18D7d1k=",
+  "Source": "WebApiNetCore.Api",
+  "BasePath": "_content/WebApiNetCore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiNetCore.Api\\wwwroot",
+      "Source": "WebApiNetCore.Api",
+      "ContentRoot": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\",
+      "BasePath": "_content/WebApiNetCore.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\favicon.ico",
+      "SourceId": "WebApiNetCore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\",
+      "BasePath": "_content/WebApiNetCore.Api",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\index.html",
+      "SourceId": "WebApiNetCore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\",
+      "BasePath": "_content/WebApiNetCore.Api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

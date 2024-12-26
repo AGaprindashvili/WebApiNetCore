@@ -1,0 +1,10 @@
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\WebApiNetCore.Web.exe
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\WebApiNetCore.Web.dll
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\WebApiNetCore.Web.deps.json
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\WebApiNetCore.Web.runtimeconfig.json
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\WebApiNetCore.Web.pdb
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\System.Net.Http.Formatting.dll
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\AKA\source\repos\WebApiNetCore\WebApiNetCore.Web\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.Bson.dll

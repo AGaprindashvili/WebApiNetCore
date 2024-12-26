@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AKA\\source\\repos\\WebApiNetCore\\WebApiNetCore.Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.WebApiNetCore.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.WebApiNetCore.Api.props",
+      "PackagePath": "build\\WebApiNetCore.Api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApiNetCore.Api.props",
+      "PackagePath": "buildMultiTargeting\\WebApiNetCore.Api.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApiNetCore.Api.props",
+      "PackagePath": "buildTransitive\\WebApiNetCore.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

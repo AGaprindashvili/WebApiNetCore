@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2>Welcome</h2>
+</div>
+
+<ul class="navbar-nav flex-grow-1">
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products list - <u>api/Products/GetProducts</u></a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Index">Categories list - <u>api/Categories/GetCategories</u></a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Create">Add new product - <u>api/Products/AddProduct</u></a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Categories" asp-action="Create">Add new category - <u>api/Categories/AddCategory</u></a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Js">Products list - <u>JavaScript (jQuery/Ajax) request</u></a>
+    </li>
+</ul>
